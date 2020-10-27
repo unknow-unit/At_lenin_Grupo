@@ -65,7 +65,7 @@ public class AtLenin {
             
             switch(opcao){
             case 1:
-                cadastro();
+                
                  
                 for(int i = 0; rp == 1 ; i++){                
                     
